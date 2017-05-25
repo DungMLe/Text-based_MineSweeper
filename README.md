@@ -42,5 +42,7 @@ AUTHORS: Dung Le
 
 USER INSTRUCTIONS:
 
+The project made of 3 main class Tile, GameBoard, and GameClient which are written in Java Programming language. The  other classes are
+for testing purposes.
 
 
