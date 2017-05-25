@@ -1,7 +1,10 @@
 # Text-based_MineSweeper
 PROJECT TITLE: Text-based_MineSweeper
+
 PURPOSE OF PROJECT: This is the text-based Mine Sweeper game using Java programming language.
+
 VERSION or DATE: 2/26/2017
+
 HOW TO START THIS PROJECT:
 1. Tile – this class represents a single tile on the Minesweeper game board. 
 	 Instance variables should be whatever you need to maintain that tile’s state information. This includes a number of things: is it 	    covered?  Is it marked?  Does it contain a mine?  How many adjacent 	mines does it have?
